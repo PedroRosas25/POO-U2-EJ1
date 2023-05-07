@@ -1,3 +1,5 @@
+Ejercicio 1
+
 Defina una clase “Email” con los siguientes atributos: idCuenta, dominio, tipo de dominio y contraseña (todos estos datos se ingresan por teclado). Y los siguientes métodos:
 
 a- El constructor.
